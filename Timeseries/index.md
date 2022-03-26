@@ -6,5 +6,5 @@ Here are links to the available files:
 
 - [Time Series Decomposition (html)](TimeSeriesDecomposition.html)
 
-- [Time Series Decomposition (i)](TimeSeriesDecomposition.i)
+- [Time Series Decomposition (ipynb)](TimeSeriesDecomposition1.ipynb)
 

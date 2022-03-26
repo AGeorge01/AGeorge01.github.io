@@ -4,4 +4,4 @@ description: This Decompostion will be a step by step walk-through series.
 ---
 Here are links to the available files:
 
-- 
+- [Time Series Decomposition](AAPL Time Series Decomposition.html)

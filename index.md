@@ -3,7 +3,7 @@ title: MindChild - Ideas are Born Here
 description: Everything Data!
 ---
 
-[Data Analytics image](./https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fanalytics.html&psig=AOvVaw15qmZnvzHL6qaZD1j4nSBH&ust=1648357068824000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDH3t7-4vYCFQAAAAAdAAAAABAK)
+[Data Analytics image](./https://www.dreamstime.com/predictive-analytics-big-data-analysis-business-intelligence-internet-modern-technology-concept-virtual-screen-image145015667)
 
 Developed Content:
 

@@ -1,5 +1,5 @@
 ---
-title: MindChild - Ideas are Created Here
+title: MindChild - Ideas are Born Here
 description: Everything Data!
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Personal Repository
-description: Everything Data.
+title: MindChild - Ideas are Created Here
+description: Everything Data!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

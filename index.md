@@ -7,6 +7,6 @@ description: Everything Data!
 
 Developed Content:
 
-- [Time Series Decomposition](/timeseries/index.md)
+- [Time Series Decomposition](/Timeseries/index.md)
 
 

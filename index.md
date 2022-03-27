@@ -1,5 +1,5 @@
 ---
-title: MindChild - Ideas are Born Here
+title: Pallium - Ideas are Born Here
 description: Everything Data!
 ---
 

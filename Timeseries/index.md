@@ -8,6 +8,4 @@ Here are links to the available files:
 
 - [Time Series Decomposition (ipynb)](TimeSeriesDecomposition1.ipynb)
 
-homepage
-- 
-[Return to Homepage](AGeorge01.github.io)
+

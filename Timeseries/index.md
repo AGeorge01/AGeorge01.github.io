@@ -10,4 +10,4 @@ Here are links to the available files:
 
 homepage
 - 
-[Time Series Decomposition (ipynb)](TimeSeries/)
+[Return to Homepage](AGeorge01.github.io)
